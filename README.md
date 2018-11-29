@@ -10,4 +10,4 @@ P = 0.00790447797838908
 
 ## Data Visualization
 
-<img width="937" alt="box-plot" src="https://user-images.githubusercontent.com/10100323/49207118-0df10f00-f382-11e8-90c1-eb04cc00c2f1.png">
+![boxplot-c copy](https://user-images.githubusercontent.com/10100323/49207270-763ff080-f382-11e8-9056-60cc273d6717.png)
