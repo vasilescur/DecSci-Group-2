@@ -1,8 +1,8 @@
 """
-Data analysis program for Decision Science 101 research project - Group 9
+Data analysis program for Decision Science 101 research project - Group 2
 
 Author: Radu Vasilescu
-Date:   2018-11-07
+Date:   2018-11-29
 """
 
 import pandas as pd
